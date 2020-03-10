@@ -1,0 +1,34 @@
+[
+  {
+    "Name": "1-ì(4)",
+    "Gender": "Ì",
+    "Type": "4",
+    "Team": "1",
+    "Date": "2020-03-08T23:46:15.9586639+03:00",
+    "Weight": 540.0,
+    "WeightF": 220.0,
+    "WeightF_P": 40.74,
+    "WeightB": 320.0,
+    "WeightB_P": 59.26,
+    "DistanceExis": 2100.0,
+    "Required": 35.0,
+    "WeightGruz": 90.0,
+    "DistanceGruz": 611.67
+  },
+  {
+    "Name": "1-æ(2)",
+    "Gender": "Æ",
+    "Type": "2",
+    "Team": "1",
+    "Date": "2020-03-08T23:46:15.9586639+03:00",
+    "Weight": 320.0,
+    "WeightF": 140.0,
+    "WeightF_P": 43.75,
+    "WeightB": 180.0,
+    "WeightB_P": 56.25,
+    "DistanceExis": 2100.0,
+    "Required": 42.0,
+    "WeightGruz": 10.0,
+    "DistanceGruz": 306.0
+  }
+]

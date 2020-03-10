@@ -1,0 +1,62 @@
+C:\Users\dmitr\Source\Repos\ComPort\bin\Debug\ComPort.exe.config
+C:\Users\dmitr\Source\Repos\ComPort\bin\Debug\ComPort.exe
+C:\Users\dmitr\Source\Repos\ComPort\bin\Debug\ComPort.pdb
+C:\Users\dmitr\Source\Repos\ComPort\obj\Debug\ComPort.csprojAssemblyReference.cache
+C:\Users\dmitr\Source\Repos\ComPort\obj\Debug\ComPort.Properties.Resources.resources
+C:\Users\dmitr\Source\Repos\ComPort\obj\Debug\ComPort.csproj.GenerateResource.cache
+C:\Users\dmitr\Source\Repos\ComPort\obj\Debug\ComPort.exe
+C:\Users\dmitr\Source\Repos\ComPort\obj\Debug\ComPort.pdb
+C:\Users\dmitr\Source\Repos\ComPort\obj\Debug\ComPort.Sportsmans.resources
+C:\Users\dmitr\Source\Repos\ComPort\obj\Debug\ComPort.Form1.resources
+C:\Users\Игнатов\Desktop\ComPort\bin\Debug\ComPort.exe.config
+C:\Users\Игнатов\Desktop\ComPort\bin\Debug\ComPort.exe
+C:\Users\Игнатов\Desktop\ComPort\bin\Debug\ComPort.pdb
+C:\Users\Игнатов\Desktop\ComPort\obj\Debug\ComPort.csprojAssemblyReference.cache
+C:\Users\Игнатов\Desktop\ComPort\obj\Debug\ComPort.Form1.resources
+C:\Users\Игнатов\Desktop\ComPort\obj\Debug\ComPort.Properties.Resources.resources
+C:\Users\Игнатов\Desktop\ComPort\obj\Debug\ComPort.Sportsmans.resources
+C:\Users\Игнатов\Desktop\ComPort\obj\Debug\ComPort.csproj.GenerateResource.cache
+C:\Users\Игнатов\Desktop\ComPort\obj\Debug\ComPort.exe
+C:\Users\Игнатов\Desktop\ComPort\obj\Debug\ComPort.pdb
+d:\Downloads\Telegram Desktop\ComPort_edit\ComPort\bin\Debug\ComPort.exe.config
+d:\Downloads\Telegram Desktop\ComPort_edit\ComPort\obj\Debug\ComPort.exe
+d:\Downloads\Telegram Desktop\ComPort_edit\ComPort\obj\Debug\ComPort.pdb
+d:\Downloads\Telegram Desktop\ComPort_edit\ComPort\bin\Debug\ComPort.exe
+d:\Downloads\Telegram Desktop\ComPort_edit\ComPort\bin\Debug\ComPort.pdb
+d:\Downloads\Telegram Desktop\ComPort_edit\ComPort\obj\Debug\ComPort.csprojResolveAssemblyReference.cache
+d:\Downloads\Telegram Desktop\ComPort_edit\ComPort\obj\Debug\ComPort.Form1.resources
+d:\Downloads\Telegram Desktop\ComPort_edit\ComPort\obj\Debug\ComPort.Properties.Resources.resources
+d:\Downloads\Telegram Desktop\ComPort_edit\ComPort\obj\Debug\ComPort.Sportsmans.resources
+d:\Downloads\Telegram Desktop\ComPort_edit\ComPort\obj\Debug\ComPort.csproj.GenerateResource.Cache
+C:\Users\sasha\Desktop\ComPort\bin\Debug\ComPort.exe.config
+C:\Users\sasha\Desktop\ComPort\bin\Debug\ComPort.exe.manifest
+C:\Users\sasha\Desktop\ComPort\bin\Debug\ComPort.application
+C:\Users\sasha\Desktop\ComPort\bin\Debug\ComPort.exe
+C:\Users\sasha\Desktop\ComPort\bin\Debug\ComPort.pdb
+C:\Users\sasha\Desktop\ComPort\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sasha\Desktop\ComPort\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sasha\Desktop\ComPort\obj\Debug\ComPort.csprojAssemblyReference.cache
+C:\Users\sasha\Desktop\ComPort\obj\Debug\ComPort.Forms.BeanForm.resources
+C:\Users\sasha\Desktop\ComPort\obj\Debug\ComPort.Forms.CalculationForm.resources
+C:\Users\sasha\Desktop\ComPort\obj\Debug\ComPort.Forms.FaktForm.resources
+C:\Users\sasha\Desktop\ComPort\obj\Debug\ComPort.Forms.FaktResultForm.resources
+C:\Users\sasha\Desktop\ComPort\obj\Debug\ComPort.Forms.MainForm.resources
+C:\Users\sasha\Desktop\ComPort\obj\Debug\ComPort.MeasurementForm.resources
+C:\Users\sasha\Desktop\ComPort\obj\Debug\ComPort.Forms.ResultForm.resources
+C:\Users\sasha\Desktop\ComPort\obj\Debug\ComPort.Forms.SettingsForm.resources
+C:\Users\sasha\Desktop\ComPort\obj\Debug\ComPort.Forms.SportsmanForm.resources
+C:\Users\sasha\Desktop\ComPort\obj\Debug\ComPort.Properties.Resources.resources
+C:\Users\sasha\Desktop\ComPort\obj\Debug\ComPort.csproj.GenerateResource.cache
+C:\Users\sasha\Desktop\ComPort\obj\Debug\ComPort.csproj.CoreCompileInputs.cache
+C:\Users\sasha\Desktop\ComPort\obj\Debug\ComPort.exe.manifest
+C:\Users\sasha\Desktop\ComPort\obj\Debug\ComPort.application
+C:\Users\sasha\Desktop\ComPort\obj\Debug\ComPort.csproj.CopyComplete
+C:\Users\sasha\Desktop\ComPort\obj\Debug\ComPort.exe
+C:\Users\sasha\Desktop\ComPort\obj\Debug\ComPort.pdb
+C:\Users\sasha\Desktop\ComPort\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\sasha\Desktop\ComPort\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sasha\Desktop\ComPort\bin\Debug\Unity.Abstractions.dll
+C:\Users\sasha\Desktop\ComPort\bin\Debug\Unity.Container.dll
+C:\Users\sasha\Desktop\ComPort\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sasha\Desktop\ComPort\bin\Debug\Unity.Abstractions.pdb
+C:\Users\sasha\Desktop\ComPort\bin\Debug\Unity.Container.pdb
